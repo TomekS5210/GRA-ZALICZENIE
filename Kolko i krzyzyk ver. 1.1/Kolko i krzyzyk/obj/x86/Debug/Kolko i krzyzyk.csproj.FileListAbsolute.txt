@@ -1,0 +1,10 @@
+D:\Paweł\C++\C#\Gry\Kolko i krzyzyk\Kolko i krzyzyk\bin\Debug\Kolko i krzyzyk.exe
+D:\Paweł\C++\C#\Gry\Kolko i krzyzyk\Kolko i krzyzyk\bin\Debug\Kolko i krzyzyk.pdb
+D:\Paweł\C++\C#\Gry\Kolko i krzyzyk\Kolko i krzyzyk\obj\x86\Debug\Kolko i krzyzyk.exe
+D:\Paweł\C++\C#\Gry\Kolko i krzyzyk\Kolko i krzyzyk\obj\x86\Debug\Kolko i krzyzyk.pdb
+D:\Paweł\C++\C#\Gry\Kolko i krzyzyk\Kolko i krzyzyk\obj\x86\Debug\Kolko i krzyzyk.csprojResolveAssemblyReference.cache
+D:\Paweł\C++\C#\Gry\Kolko i krzyzyk ver. 1.1\Kolko i krzyzyk\obj\x86\Debug\Kolko i krzyzyk.exe
+D:\Paweł\C++\C#\Gry\Kolko i krzyzyk ver. 1.1\Kolko i krzyzyk\obj\x86\Debug\Kolko i krzyzyk.pdb
+D:\Paweł\C++\C#\Gry\Kolko i krzyzyk ver. 1.1\Kolko i krzyzyk\bin\Debug\Kolko i krzyzyk.exe
+D:\Paweł\C++\C#\Gry\Kolko i krzyzyk ver. 1.1\Kolko i krzyzyk\bin\Debug\Kolko i krzyzyk.pdb
+D:\Paweł\C++\C#\Gry\Kolko i krzyzyk ver. 1.1\Kolko i krzyzyk\obj\x86\Debug\Kolko i krzyzyk.csprojResolveAssemblyReference.cache

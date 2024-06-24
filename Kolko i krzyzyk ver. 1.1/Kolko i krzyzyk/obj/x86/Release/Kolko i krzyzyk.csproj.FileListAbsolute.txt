@@ -1,0 +1,4 @@
+D:\Paweł\C++\C#\Gry\Kolko i krzyzyk\Kolko i krzyzyk\bin\Release\Kolko i krzyzyk.exe
+D:\Paweł\C++\C#\Gry\Kolko i krzyzyk\Kolko i krzyzyk\bin\Release\Kolko i krzyzyk.pdb
+D:\Paweł\C++\C#\Gry\Kolko i krzyzyk\Kolko i krzyzyk\obj\x86\Release\Kolko i krzyzyk.exe
+D:\Paweł\C++\C#\Gry\Kolko i krzyzyk\Kolko i krzyzyk\obj\x86\Release\Kolko i krzyzyk.pdb
